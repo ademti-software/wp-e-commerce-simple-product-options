@@ -37,11 +37,20 @@ Yes, install a taxonomy ordering plugin - I recommend http://wordpress.org/exten
 
 ## Screenshots
 
-1. Product Options Menu
-2. Product Options Setup
-3. Adding Product Options to a Product
-4. Product Option choices recorded against a sale
-5. Product options on the frontend
+### Product Options Menu
+![Product Options Menu](https://github.com/ademti-software/wp-e-commerce-simple-product-options/blob/ea9a50a1ed1ff2dd61ec018a4c0ca587a628b664/screenshot-1.png?raw)
+
+### Product Options Setup
+![Product Options Setup](https://github.com/ademti-software/wp-e-commerce-simple-product-options/blob/ea9a50a1ed1ff2dd61ec018a4c0ca587a628b664/screenshot-2.png?raw)
+
+### Adding Product Options to a Product
+![Adding Product Options to a Product](https://github.com/ademti-software/wp-e-commerce-simple-product-options/blob/ea9a50a1ed1ff2dd61ec018a4c0ca587a628b664/screenshot-3.png?raw)
+
+### Product Option choices recorded against a sale
+![Product Option choices recorded against a sale](https://github.com/ademti-software/wp-e-commerce-simple-product-options/blob/ea9a50a1ed1ff2dd61ec018a4c0ca587a628b664/screenshot-4.png?raw)
+
+### Product options on the frontend
+![Product options on the frontend](https://github.com/ademti-software/wp-e-commerce-simple-product-options/blob/ea9a50a1ed1ff2dd61ec018a4c0ca587a628b664/screenshot-5.png?raw)
 
 ## Changelog
 
